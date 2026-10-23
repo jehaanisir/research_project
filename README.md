@@ -1,4 +1,4 @@
-# research_project
+# Research Project
 
 This will be a project on **computational toxicology project**
 
