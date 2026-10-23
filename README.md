@@ -1,9 +1,3 @@
 # research_project
 
-## naseel
-
-### naseel
-
-#### naseel
-
-##### naseel
+This will be a project on **computational toxicology project**
